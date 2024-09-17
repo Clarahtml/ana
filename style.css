@@ -1,0 +1,35 @@
+body{
+    background-color:whitesmoke;
+    padding: 80px;
+    font-family: "Baskervville SC";
+    
+}
+
+header{
+    border-bottom:solid 3px rgb(43, 31, 133);
+    font-size: 40px;
+    color:rgb(7, 1, 46) ;
+
+}
+h1{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 25px;
+  }
+
+section {
+    background:rgb(43 31 133 / 13%);
+
+}
+.chamada-texto {
+    margin-right: 20px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
